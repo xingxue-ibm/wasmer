@@ -437,3 +437,7 @@ required-features = ["cranelift"]
 name = "http-dynamic-size"
 path = "examples/http_dynamic_size.rs"
 required-features = ["cranelift"]
+
+[patch.crates-io]
+corosensei = { path = "/home/xingxue/corosensei" }
+libc = { path = "/home/xingxue/rust/dev/libc" }

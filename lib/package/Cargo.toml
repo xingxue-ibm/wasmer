@@ -43,3 +43,6 @@ tempfile.workspace = true
 regex = "1.11.0"
 ureq = "2.10.1"
 hexdump = "0.1.2"
+
+[patch.crates-io]
+libc = { path = "/home/xingxue/rust/dev/libc" }

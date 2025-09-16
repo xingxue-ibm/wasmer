@@ -1,1 +1,2 @@
-1.84
+[toolchain]
+channel = "nightly-2025-08-12"
